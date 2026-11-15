@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI",
+  "description": "Intelligent resume tailoring platform powered by Google Gemini AI. Upload your permanent Master Resume once and generate factually verified, ATS-friendly resumes for any job description.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
